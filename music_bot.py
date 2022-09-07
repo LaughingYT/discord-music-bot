@@ -7,7 +7,7 @@ import time
 
 # Discord bot Initialization
 client = discord.Client()
-key = "YOUR BOT TOKEN IN HERE"
+key = "MTAxNzA1MzE0NDMyMjE2MjczOA.GbiKm3.JEpM92VkXqAdhApXkpMHL1ojv0F2MolldOQJ_g"
 
 voice_clients = {}
 
